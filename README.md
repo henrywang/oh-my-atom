@@ -55,10 +55,11 @@
 | Undo Selection | `Cmd+u` | `Ctrl+u` | `Ctrl+u` | This undoes the previous selection, like from Select Same Words. |
 | Select All The Same Words At Once | `Cmd+Ctrl+g` | `Alt+f3`  | `Alt+f3` | This shortcut is similar to `Cmd+d/Ctrl+d` but it selects all the matching words at once.  |
 
-## Various Packages
+### Various Packages
 
 A list of my favorite packages can be found [in my gist](https://gist.github.com/henrywang/85c65c271c479d583ab7f8fd5e819335#file-packages-json).
 
 | Command | macOS | Windows | Linux | Package |
 | ------- | -------- | ------- | ----- | ----------- |
 | Open the timeplot | `Alt+t` | `Alt+t` | `Alt+t` | [git-time-machine](https://atom.io/packages/git-time-machine) |
+| Wraps tag around selection | `Alt+Shift+w` | `Alt+Shift+w` | `Alt+Shift+w` |[atom-wrap-in-tag](https://atom.io/packages/atom-wrap-in-tag) |
